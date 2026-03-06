@@ -41,6 +41,9 @@ public class HillCipher {
             }
         }
 
+//hello
+
+
         sc.nextLine();
         System.out.println("Enter message:");
         String message = sc.nextLine();
